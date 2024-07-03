@@ -2,9 +2,10 @@
 A free online course about building a Q&A system. https://github.com/DataTalksClub/llm-zoomcamp
 
 ## Calendar
-|Date | Lesson | HW |
-|-----|--------|----|
-| 6/17/2024 | [Introduction to LLMs and RAG](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-intro) | [6/24/2024](https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw1)|
+| Lesson | HW |
+|--------|----|
+| [Introduction to LLMs and RAG](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-intro) | [7/1/2024](https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw1)|
+| [OpenSource LLMs](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/02-open-source) | [7/8/2024](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/02-open-source/homework.md)
 
 ## Lesson 1 - Introduction to LLMs and RAG
 ### Starting env
@@ -55,3 +56,6 @@ response =client.chat.completions.create(
 
 response.choices[0].message.content
 ```
+
+#### Homework and Template RAG
+https://github.com/Shiva-Mantri/2024LLMZoomcamp/blob/main/Lesson_1/Homework%201_Introduction.ipynb
