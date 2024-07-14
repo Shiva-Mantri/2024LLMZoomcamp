@@ -64,4 +64,9 @@ https://github.com/Shiva-Mantri/2024LLMZoomcamp/blob/main/Lesson_1/Homework%201_
 ## Lesson 2 - OpenSource LLMs
 
 ## Lesson 3 - Vector Search
-###
+Course: [Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/03-vector-search)
+
+### Notes
+* Sentence Transformers: https://sbert.net/ (maintained by HuggingFace. also at: https://huggingface.co/models?library=sentence-transformers)
+* Evaluation Metrics: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/03-vector-search/eval/evaluation-metrics.md
+* 
