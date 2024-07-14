@@ -6,6 +6,7 @@ A free online course about building a Q&A system. https://github.com/DataTalksCl
 |--------|----|
 | [Introduction to LLMs and RAG](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-intro) | [7/1/2024](https://courses.datatalks.club/llm-zoomcamp-2024/homework/hw1)|
 | [OpenSource LLMs](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/02-open-source) | [7/8/2024](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/02-open-source/homework.md)
+| [Vector Search](https://github.com/DataTalksClub/llm-zoomcamp/tree/main/03-vector-search) | [7/15/2024](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/03-vector-search/homework.md)|
 
 ## Lesson 1 - Introduction to LLMs and RAG
 ### Starting env
@@ -59,3 +60,8 @@ response.choices[0].message.content
 
 #### Homework and Template RAG
 https://github.com/Shiva-Mantri/2024LLMZoomcamp/blob/main/Lesson_1/Homework%201_Introduction.ipynb
+
+## Lesson 2 - OpenSource LLMs
+
+## Lesson 3 - Vector Search
+###
